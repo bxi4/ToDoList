@@ -1,0 +1,182 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add Item" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة مهمة"
+          }
+        }
+      }
+    },
+    "Add Items 😇" : {
+
+    },
+    "Add Task" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضافه"
+          }
+        }
+      }
+    },
+    "button" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بتن"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الغاء"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف"
+          }
+        }
+      }
+    },
+    "Delete All" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف الكل"
+          }
+        }
+      }
+    },
+    "Do you Delete All Items in List ? 🗑️" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل انت متاكد من حدف جميع المهمات ؟ 🗑️"
+          }
+        }
+      }
+    },
+    "hello" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا"
+          }
+        }
+      }
+    },
+    "hello mohammed Alwrafi" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هلا اسمي "
+          }
+        }
+      }
+    },
+    "hello mohammed Alwrafi %lld" : {
+
+    },
+    "Not List Here" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا يوجد مهمات هنا "
+          }
+        }
+      }
+    },
+    "Not list is Here Please Add One From +" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لاضافة مهمات اضغط على زر +"
+          }
+        }
+      }
+    },
+    "Ok" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موافق"
+          }
+        }
+      }
+    },
+    "Please Enter 4 And more Char!" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرجاء اضافه ٤ حروف على الاقل 😇"
+          }
+        }
+      }
+    },
+    "There Here Not Items!" : {
+
+    },
+    "title" : {
+
+    },
+    "To Do List 📝" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تطبيق المهمات 📝"
+          }
+        }
+      }
+    },
+    "To Do List 📝 " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تطبيق المهمات 📝"
+          }
+        }
+      }
+    },
+    "Type Somthing here ..." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتب اي شي هنا ..."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
